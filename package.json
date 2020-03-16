@@ -1,0 +1,25 @@
+{
+  "name": "simple-dsl-parser-core",
+  "version": "1.0.0",
+  "description": "A parser core for simple DSL based on fsm.",
+  "main": "core.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OORaiser/simple-DSL-parser-core.git"
+  },
+  "keywords": [
+    "DSL",
+    "parser",
+    "fsm"
+  ],
+  "author": "oo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OORaiser/simple-DSL-parser-core/issues"
+  },
+  "homepage": "https://github.com/OORaiser/simple-DSL-parser-core#readme",
+  "type": "module"
+}
